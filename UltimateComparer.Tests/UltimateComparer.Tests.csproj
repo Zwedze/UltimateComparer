@@ -55,7 +55,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UltimateListComparer\UltimateComparer.csproj">
+    <ProjectReference Include="..\UltimateComparer\UltimateComparer.csproj">
       <Project>{5baef5a1-f0db-4174-a900-85d9649c2eaa}</Project>
       <Name>UltimateComparer</Name>
     </ProjectReference>

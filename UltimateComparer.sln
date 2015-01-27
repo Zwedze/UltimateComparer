@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateComparer", "UltimateListComparer\UltimateComparer.csproj", "{5BAEF5A1-F0DB-4174-A900-85D9649C2EAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateComparer", "UltimateComparer\UltimateComparer.csproj", "{5BAEF5A1-F0DB-4174-A900-85D9649C2EAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateComparer.Tests", "UltimateListComparer.Tests\UltimateComparer.Tests.csproj", "{DB53BB12-D19B-47F5-9ADA-B71513DB2AC7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGet.UltimateComparer.Test", "NuGet.UltimateListComparer.Test\NuGet.UltimateComparer.Test.csproj", "{3B60DBCE-DD7F-49A5-88A2-E88FD171CC56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateComparer.Tests", "UltimateComparer.Tests\UltimateComparer.Tests.csproj", "{DB53BB12-D19B-47F5-9ADA-B71513DB2AC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{DB53BB12-D19B-47F5-9ADA-B71513DB2AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB53BB12-D19B-47F5-9ADA-B71513DB2AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB53BB12-D19B-47F5-9ADA-B71513DB2AC7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B60DBCE-DD7F-49A5-88A2-E88FD171CC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B60DBCE-DD7F-49A5-88A2-E88FD171CC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B60DBCE-DD7F-49A5-88A2-E88FD171CC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B60DBCE-DD7F-49A5-88A2-E88FD171CC56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
